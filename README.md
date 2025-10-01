@@ -1,0 +1,1 @@
+A modern landing page built with Vue 3 featuring reusable components and flexible styling. Includes a fixed header, navigation links, call-to-action button, and a clean layout for easy customization. This project serves as a learning base for Vue, CSS Flexbox, and component organization.
