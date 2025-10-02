@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import Header from './components/Header.vue';
-
+import Header from './components/Header.vue'
+import Hero from './components/Hero.vue'
 </script>
 
 <template>
   <div id="app">
-  <Header />
-  <Hero> </Hero>
-  <Features> </Features>
-  <cta> </Cta>
-  <Footer> </Footer>
+    <Header />
+    <Hero />
+    <Features />
+    <Cta />
+    <Footer />
   </div>
 </template>
